@@ -1,4 +1,4 @@
-Idade,Sexo,Tipo dor,Pressao arterial,Colesterol,Glicemia jejum >120,Resultados ECG,Frequencia cardiaca max,Dor exercicio,Depressao ST, Inclinacao ST,Numero vasos fluro,Teste cintilografia,Doenca cardiaca
+Idade,Sexo,Tipo dor,Pressao arterial,Colesterol,Glicemia jejum >120,Resultados ECG,Frequencia cardiaca max,Dor exercicio,Depressao ST,Inclinacao ST,Numero vasos fluro,Teste cintilografia,Doenca cardiaca
 70,1,4,130,322,0,2,109,0,2.4,2,3,3,Presenca
 67,0,3,115,564,0,2,160,0,1.6,2,0,7,Ausencia
 57,1,2,124,261,0,0,141,0,0.3,1,0,7,Presenca
